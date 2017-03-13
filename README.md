@@ -72,7 +72,7 @@ Example
 		if (!createFile)
 			return;
 
-		splice(createFile, &newCreateFile, (void**)&oldCreateFile;
+		splice(createFile, &newCreateFile, (void**)&oldCreateFile);
 	}
 	
 Licence
